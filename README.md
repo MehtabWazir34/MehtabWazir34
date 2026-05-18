@@ -46,7 +46,7 @@ I enjoy combining creativity with technology to create professional digital expe
 <div align="center">
 
 <a href="https://www.facebook.com/mehtabwazir34">
-<img src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png" />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/mehtab-wazir-1429bb247/">
