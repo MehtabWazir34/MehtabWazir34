@@ -93,14 +93,6 @@ I enjoy combining creativity with technology to create professional digital expe
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=MehtabWazir34&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 💡 Current Focus
 
 * Building MERN stack projects
