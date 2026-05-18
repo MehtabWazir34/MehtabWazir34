@@ -46,7 +46,7 @@ I enjoy combining creativity with technology to create professional digital expe
 <div align="center">
 
 <a href="https://www.facebook.com/mehtabwazir34">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=TJPPqgPk&id=448BEFF4F280469EB0287ABA84370434213850DC&thid=OIP.TJPPqgPkbIoECkGmtCrmIQHaHa&mediaurl=https%3a%2f%2fstatic.vecteezy.com%2fsystem%2fresources%2fpreviews%2f018%2f930%2f698%2foriginal%2ffacebook-logo-facebook-icon-transparent-free-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c93cfaa03e46c8a040a41a6b42ae621%3frik%3d3FA4ITQEN4S6eg%26pid%3dImgRaw%26r%3d0&exph=1920&expw=1920&q=facebook+logo&FORM=IRPRST&ck=ED58F55DF665D7C62D69365A202BED16&selectedIndex=0&itb=1" />
+<img src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/mehtab-wazir-1429bb247/">
